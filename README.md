@@ -14,6 +14,7 @@
 	<li> Entrada de datos con leers </li>
 	<li> Entrada de datos con fgetc </li>
 	 <li> Salida de datos con printf </li>
+	<li> Salida de datos con retorno </li>
 	<li> Variables local </li>
 	<li> Variables cadena </li>
 	<li> Variables entero </li>
