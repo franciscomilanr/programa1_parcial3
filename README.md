@@ -28,6 +28,8 @@
 	<li> Apertura de archivos 
 	<li> Apertura de archivos en modo escritura </li>
 	<li> Apertura de archivos en modo lectura </li>
+	<li> Medicion de caracteres en archivo </li>
+	<li> Medicion de lineas en archivo </li>
 	<li> If - else </li>
 	<li> While </li>
 	<li> Valor de retorno </li>
